@@ -31,3 +31,7 @@ Assuming you already have Github, Discord, and Transifex accounts. Proceed with 
 3) Create your first project after reading through the documentation titled [HOW-TO: Starting a New Project](https://github.com/BuddhistCAT/New-Project-Template/blob/main/documentation/README.md).
 
 **NOTE:** In order to be able to access the **New Project Template** required for starting new projects as explained in the [HOW-TO: Starting a New Project](https://github.com/BuddhistCAT/New-Project-Template/blob/main/documentation/README.md), you will have to become a member of this Github organization first. 
+
+## Support
+
+The best way to get support is on [Discord](https://discord.gg/4auZVfCEkU) or alternative [create a ticket](https://github.com/BuddhistCAT/Home/issues/new/choose).
