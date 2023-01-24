@@ -27,8 +27,10 @@ Together they represent the entire translation project life-cycle from having th
 Assuming you already have Github, Discord, and Transifex accounts. Proceed with the following.
 
 1) Become a member in BuddhistCAT Discord community by clicking [this invite link](https://discord.gg/4auZVfCEkU).
-2) Follow the instructions in the welcome message on Discord to become the member of this Github organization
-3) Create your first project after reading through the documentation titled [HOW-TO: Starting a New Project](https://github.com/BuddhistCAT/New-Project-Template/blob/main/documentation/README.md).
+2) Request @aunt or @nt on Discord to add you as a member of this Github organization
+3) Create a Github organization (unless you already have it) where your translation projects will be managed
+4) Do the one-time integration between Github and Transifex following the instructions [here](https://github.com/apps/transifex-integration)
+5) Create your first project after reading through the documentation titled [HOW-TO: Starting a New Project](https://github.com/BuddhistCAT/New-Project-Template/blob/main/documentation/README.md).
 
 **NOTE:** In order to be able to access the **New Project Template** required for starting new projects as explained in the [HOW-TO: Starting a New Project](https://github.com/BuddhistCAT/New-Project-Template/blob/main/documentation/README.md), you will have to become a member of this Github organization first. 
 
