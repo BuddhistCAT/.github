@@ -1,4 +1,4 @@
-# Workflow Overview
+# Buddhist Computer-Assisted-Translation Workflow Overview
 
 ## How it works?
 
