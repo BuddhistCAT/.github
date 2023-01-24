@@ -4,7 +4,7 @@
 
 This system of working is based on leveraging capabilities found in two technologies, Github and Transifex.
 
-**Github** is the online service where all the project data is stored and where new projects are created. One comes to Github to start new projects, and to export projects into various file formats. 
+**Github** is the online service where all the project data is stored and where new projects are created. One comes to Github to start new projects, and to export projects into various file formats when they need to be published. 
 
 **Transifex** is the online service where everything between starting a new project and wanting to publish it is handled. 
 
