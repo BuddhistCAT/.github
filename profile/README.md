@@ -25,8 +25,9 @@ Assuming you already have Github, Discord, and Transifex accounts. Proceed with 
 1) Become a member in BuddhistCAT Discord community by clicking [this invite link](https://discord.gg/4auZVfCEkU).
 2) Request @aunt or @nt on Discord to add you as a member of this Github organization
 3) Create a Github organization (unless you already have it) where your translation projects will be managed
-4) Do the one-time integration between Github and Transifex following the instructions [here](https://github.com/apps/transifex-integration)
-5) Create your first project after reading through the documentation titled [HOW-TO: Starting a New Project](https://github.com/BuddhistCAT/New-Project-Template/blob/main/documentation/README.md)
+4) In the `Settings` tab of the new organization, choose `Actions` and from there `General`, then under the heading `Workflow Permissions` set `Read and write permissions` and save
+5) Do the one-time integration between Github and Transifex following the instructions [here](https://github.com/apps/transifex-integration)
+6) Create your first project after reading through the documentation titled [HOW-TO: Starting a New Project](https://github.com/BuddhistCAT/New-Project-Template/blob/main/documentation/README.md)
 
 **NOTE:** In order to be able to access the **New Project Template** required for starting new projects as explained in the [HOW-TO: Starting a New Project](https://github.com/BuddhistCAT/New-Project-Template/blob/main/documentation/README.md), you will have to become a member of this Github organization first. 
 
