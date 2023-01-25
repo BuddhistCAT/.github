@@ -27,7 +27,7 @@ You will first have to do a few things to set things up. These things will have 
 Assuming you already have Github, Discord, and Transifex accounts. Proceed with the following.
 
 1) Become a member in BuddhistCAT Discord community by clicking [this invite link](https://discord.gg/4auZVfCEkU).
-2) Request @aunt or @nt on Discord to add you as a member of this Github organization
+2) Request @aunt or @nt on Discord to add you as a member of BuddhistCAT Github organization
 3) Create a Github organization (unless you already have it) where your translation projects will be managed (
 
 **NOTE**: Creating a Github organization is not same as having a Github user account. You must create an organization before you can move to the next steps. If the organization you created is named `myneworg` then for the next step, you have to start in https://github.com/myneworg.
