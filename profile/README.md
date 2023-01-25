@@ -20,6 +20,8 @@ Together they represent the entire translation project life-cycle from having th
 
 ### Step-by-Step
 
+You will first have to do a few things to set things up. These things will have to be done just once. Then after that, you will be able to move onto setting up your first project. Then in the future, you'll just repeat that step whenever you want to start new projects.
+
 #### Things Done Just Once
 
 Assuming you already have Github, Discord, and Transifex accounts. Proceed with the following.
